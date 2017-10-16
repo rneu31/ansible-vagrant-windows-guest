@@ -22,4 +22,7 @@ The Vagrantfile points to: https://app.vagrantup.com/mwrock/boxes/Windows2012R2,
 5. Test connection via `ansible windows -i hosts -m win_ping` (http://docs.ansible.com/ansible/latest/win_ping_module.html)
 
 6. If success, run playbook `ansible-playbook -i hosts playbook.yml`
+
+# Notes
+The password and username for the Vagrant box are both `vagrant`.
  
