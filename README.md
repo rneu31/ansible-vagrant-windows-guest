@@ -1,10 +1,6 @@
 # ansible-vagrant-windows-guest
 Run ansible playbooks on a Windows guest created using Vagrant.
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/SbdHU1DzpxTgupfg3iCwZeiZ/rneu31/ansible-vagrant-windows-guest'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/SbdHU1DzpxTgupfg3iCwZeiZ/rneu31/ansible-vagrant-windows-guest.svg' />
-</a>
-
 # Steps
 Inspiration from https://medium.com/the-sysadmin/managing-windows-machines-with-ansible-60395445069f
 
