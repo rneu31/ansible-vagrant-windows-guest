@@ -1,8 +1,0 @@
-- hosts: all
-  
-  tasks:
-  - name: Create dir (per installation docs)
-    win_file:
-      path: C:\GitLab-Runner
-      state: directory
-

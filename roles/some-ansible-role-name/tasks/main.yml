@@ -1,0 +1,7 @@
+---
+- name: Create temp dir
+  win_file:
+    path: "{{temp_dir}}"
+    state: directory
+
+
